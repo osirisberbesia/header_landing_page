@@ -1,4 +1,4 @@
-# Landing Page Header (respondivo)
+# Landing Page Header (responsivo)
 Usos de:
 * HTML
 * CSS
